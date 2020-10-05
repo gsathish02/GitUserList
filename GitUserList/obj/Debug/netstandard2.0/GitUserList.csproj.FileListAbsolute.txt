@@ -1,0 +1,14 @@
+/Users/sathishg/Projects/GitUserList/GitUserList/bin/Debug/netstandard2.0/GitUserList.deps.json
+/Users/sathishg/Projects/GitUserList/GitUserList/bin/Debug/netstandard2.0/GitUserList.dll
+/Users/sathishg/Projects/GitUserList/GitUserList/bin/Debug/netstandard2.0/ref/GitUserList.dll
+/Users/sathishg/Projects/GitUserList/GitUserList/bin/Debug/netstandard2.0/GitUserList.pdb
+/Users/sathishg/Projects/GitUserList/GitUserList/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/sathishg/Projects/GitUserList/GitUserList/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/sathishg/Projects/GitUserList/GitUserList/obj/Debug/netstandard2.0/SecondaryPage.xaml.g.cs
+/Users/sathishg/Projects/GitUserList/GitUserList/obj/Debug/netstandard2.0/GitUserList.AssemblyInfoInputs.cache
+/Users/sathishg/Projects/GitUserList/GitUserList/obj/Debug/netstandard2.0/GitUserList.AssemblyInfo.cs
+/Users/sathishg/Projects/GitUserList/GitUserList/obj/Debug/netstandard2.0/GitUserList.csproj.CoreCompileInputs.cache
+/Users/sathishg/Projects/GitUserList/GitUserList/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/sathishg/Projects/GitUserList/GitUserList/obj/Debug/netstandard2.0/GitUserList.dll
+/Users/sathishg/Projects/GitUserList/GitUserList/obj/Debug/netstandard2.0/ref/GitUserList.dll
+/Users/sathishg/Projects/GitUserList/GitUserList/obj/Debug/netstandard2.0/GitUserList.pdb
